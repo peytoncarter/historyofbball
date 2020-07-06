@@ -12,8 +12,8 @@ Here is how basketball has changed throughout the years..
 <img src="https://i.pinimg.com/originals/ef/8d/27/ef8d277ffcb01af2f69681ab6f0ef7d8.jpg" alt="College basketball team, women from the class of 1900.">
 <p> College basketball team, women from the class of 1900 </p>
 
-<img src="https://hooptactics.net/premium/basketballbasics/images/6ccager1.jpg" alt="cage game"
+<img src="https://hooptactics.net/premium/basketballbasics/images/6ccager1.jpg" alt="cage game">
 <p> In the early 1900s, wires were used to mark bounds. This practice was abandoned in 1933. </p>
 
-<img src="https://s.abcnews.com/images/US/GTY_tom_izzo_jtm_140317_16x9_992.jpg" alt="izzo"
+<img src="https://s.abcnews.com/images/US/GTY_tom_izzo_jtm_140317_16x9_992.jpg" alt="izzo">
 <p> In 1949, coaching during games and timeouts became allowed. Prior to this, coaching was only allowed at halftime.  </p>
