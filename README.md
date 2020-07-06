@@ -19,5 +19,8 @@ Here is how basketball has changed throughout the years..
 <img src="https://olympics.nbcsports.com/wp-content/uploads/sites/10/2017/08/dream-team-1992-gold-usatsi_9152795.jpg" alt="Olymic Basketball Game">
 <p> Basketball is a sport loved by many around the world and has always been a fan favorite at the Olympic Games. It was added to the Games in 1936 for men, and later added for women in 1976. </p>
 
+<img src="https://s.abcnews.com/images/US/GTY_tom_izzo_jtm_140317_16x9_992.jpg" alt="izzo">
+<p> In 1949, coaching during games and timeouts became allowed. Prior to this, coaching was only allowed at halftime.  </p>
+
 <img src="https://cdn.herosports.com/upload/post/manual/04_18/16/Who-are-the-best-WNBA-players-of-all-time-1523862266.jpeg" alt="WNBA Players">
 <p> In April 1996, the Womens’ National Basketball Association was formed, further expanding the reach of the game. </p>
